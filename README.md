@@ -1,8 +1,8 @@
-# EEW-System-BD
+# Early Earthquake Warning System BD
 Authors: ✅ Md. Atiqur Rahman Sifat ✅ Fahmida Farousi ✅ Muhammad Imtiaz Ahmed ✅ labib Ahamod
 <br>
 Department of Computer Science & Engineering, University of Information Technology and Sciences (UITS) - Dhaka, Bangladesh.
-<br>
+<br> 
 Supervised By: Dr. Shekh Abdullah-Al-Musa Ahmed, Associate Professor - UITS
 <br><br>
 🚨STEAD will be found here (Drive Link) : https://drive.google.com/file/d/1E27oZM3T6IrN5Fdwfu_DGrRqOFt53pZm/view
